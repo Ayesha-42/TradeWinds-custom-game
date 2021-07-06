@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Blackbeard</Name>
+  <Pfp>char1</Pfp>
+  <Assets>
+    <Cash>1828</Cash>
+    <Bank>604</Bank>
+    <BankInterest>1</BankInterest>
+    <Rank>Beggar</Rank>
+    <Debt>4530</Debt>
+    <DebtInterest>2.00</DebtInterest>
+  </Assets>
+  <CargoInfo>
+    <Quantity>
+      <string>0</string>
+      <string>0</string>
+      <string>1</string>
+      <string>0</string>
+      <string>0</string>
+    </Quantity>
+    <CP>
+      <int>7</int>
+      <int>51</int>
+      <int>173</int>
+      <int>411</int>
+      <int>1379</int>
+    </CP>
+    <CargoSpace>30</CargoSpace>
+  </CargoInfo>
+  <Location>
+    <X>318</X>
+    <Y>208</Y>
+  </Location>
+  <Ship>
+    <HullStrength>20</HullStrength>
+    <TotalLife>30</TotalLife>
+    <CanonQ>1</CanonQ>
+    <UpgradeLevel>1</UpgradeLevel>
+  </Ship>
+  <TravelDate>
+    <Dt>2016-04-19T10:55:55</Dt>
+  </TravelDate>
+</Character>
